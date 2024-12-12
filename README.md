@@ -1,4 +1,4 @@
-# Flexible-mitigation_of_epidemics_by_transport_management
+# Flexible Mitigation of Epidemics by Transport Management
 This repository summarizes  stores relevant data and simulates control strategies to alleviate epidemics through transportation management, introducing event-triggering mechanisms.
 
 ## Traffic Network Data
